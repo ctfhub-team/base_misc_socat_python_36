@@ -1,0 +1,7 @@
+name: base_misc_socat_python_36
+title: 基础镜像 Misc Socat Python 3.6
+desc: 基础镜像 Misc Socat Python 3.6
+tags:
+  - misc
+  - socat
+  - python
